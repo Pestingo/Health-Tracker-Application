@@ -3,6 +3,7 @@
 A comprehensive health and wellness tracking application built with React and TypeScript. Track your daily activities, monitor health metrics, and maintain your wellness goals all in one place.
 
 ![Health Tracker Screenshot](https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=1200)
+live: https://flourishing-basbousa-dc27ba.netlify.app/
 
 ## Features
 
@@ -48,7 +49,7 @@ A comprehensive health and wellness tracking application built with React and Ty
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone [[repository-url](https://github.com/Pestingo/Health-Tracker-Application.git)]
 ```
 
 2. Install dependencies
