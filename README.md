@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-© 2024 Health Tracker by Pestingo. All rights reserved.
+© 2025 Health Tracker by Pestingo. All rights reserved.
 
 ---
 
